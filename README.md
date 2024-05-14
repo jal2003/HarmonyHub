@@ -35,12 +35,7 @@ Before you begin, ensure you have the following installed:
    ```bash
    npm install
 
-3. **Set up Firebase:**
-   - Create a Firebase project through the Firebase console.
-   - Enable Authentication and Firestore Database.
-   - Replace the firebaseConfig in the firebase.js file with your project's configuration details.
-
-4. **Run the application:**
+3. **Run the application:**
    ```bash
    npm run dev
 
