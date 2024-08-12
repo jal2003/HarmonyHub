@@ -38,6 +38,7 @@ Before you begin, ensure you have the following installed:
 - npm (Node Package Manager)
 
 ### Installation
+To run the projects locally and to implement other changes please follow these steps:
 
 1. **Clone the repository:**
    ```bash
