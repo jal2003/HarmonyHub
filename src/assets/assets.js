@@ -41,6 +41,11 @@ import img16 from './img16.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
+import song4 from  './song4.mp3'
+import song5 from  './song5.mp3'
+import song6 from  './song6.mp3'
+import song7 from  './song7.mp3'
+import song8 from  './song8.mp3'
 
 export const assets = {
     bell_icon,
@@ -79,14 +84,14 @@ export const albumsData = [
     },
     {   
         id:1,
-        name: "Top 50 India",
+        name: "Top 50 Canada",
         image: img9,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#22543d"
+        bgColor: "#901830"
     },
     {   
         id:2,
-        name: "Trending India",
+        name: "Trending Canada",
         image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
@@ -117,66 +122,68 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Blinding Lights",
         image: img1,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        desc:"The Weeknd",
+        duration:"3:23"
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Shape of You",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        desc:"Ed Sheeran",
+        duration:"4:23"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "goosebumps",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        desc:"Travis Scott",
+        duration:"4:10"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Heat Waves",
         image: img4,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        file:song4,
+        desc:"Glass Animals",
+        duration:"4:36"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "lovely (with Khalid)",
         image: img5,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        file:song5,
+        desc:"Billie Eilish, Khalid",
+        duration:"3:20"
     },
     {
         id:5,
-        name: "Song Six",
+        name: "Señorita",
         image: img14    ,
-        file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        file:song6,
+        desc:"Shawn Mendes, Camila Cabello",
+        duration:"3:10"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Lucid Dreams",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        file:song7,
+        desc:"Juice WRLD",
+        duration:"3:50"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Love Yourself",
         image: img12,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        file:song8,
+        desc:"Justin Bieber",
+        duration:"3:53"
     }
+
+    
 ]
